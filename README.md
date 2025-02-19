@@ -22,3 +22,4 @@ This Power BI project analyzes sales data from a bakery shop, providing insights
 - Power BI Desktop (latest version recommended)  
 
 ## 📸 Screenshots  
+![Dashboard Preview](https://github.com/aradhyagh/powerbi_piebakery/blob/main/dashboard_preview.jpeg)
